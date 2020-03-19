@@ -3,4 +3,4 @@ This is an HTML and Javascript package, which if hosted would display an interac
 Sightings over the whole world. THe point of this design is to allow for individuals to easily grab particular files based on 
 various entry criteron.
 
-To interact, simply clone the repository and open the HTML file, it should work from there.
+To see the stie, simply clone the repository and open the HTML file, it should work from there.
